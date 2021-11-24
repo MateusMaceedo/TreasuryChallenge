@@ -1,7 +1,7 @@
 #### TreasuryChallenge
 Desafio - Gerador de códigos em arquivo, aplicação em .NET Core e .NET Framework.
 
-#### Desafio - Gerador de códigos em arquivo
+Desafio - Gerador de códigos em arquivo
 
 A empresa **StnX** solicitou um projeto que gere códigos com ***7 caracteres*** para utilização em campanhas de marketing.
 O algoritmo deve gerar um arquivo com um número de linhas especificado pelo usuário, contendo esses códigos gerados e precisa seguir algumas regras:
