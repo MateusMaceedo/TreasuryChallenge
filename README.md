@@ -48,7 +48,7 @@ No fluxo atual, o projeto não consegue gerar nem 100 mil códigos e quando cons
 - _Na versão atual do algoritmo, um mesmo código pode ser gerado em duplicidade. Consegue fazer com que a lista final de códigos só contenha códigos únicos, ou seja, sem repetição?_
 
 <br>
-#### E aí, podemos contar com você?!
+E aí, podemos contar com você?!
 
 #### Como Rodar
 
