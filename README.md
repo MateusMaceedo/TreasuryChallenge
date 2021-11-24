@@ -40,8 +40,6 @@ No fluxo atual, o projeto não consegue gerar nem 100 mil códigos e quando cons
 |1000000 | inviável|
 |10000000| inviável|
 
-<br>
-
 #### Desafios adicionais
 
 - _Quando você conseguir fazer rodar para um arquivo com **1 milhão de códigos**, que tal tentar fazer ele rodar para **10 milhões**?!_ ;)
