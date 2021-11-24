@@ -1,7 +1,7 @@
-# TreasuryChallenge
+#### TreasuryChallenge
 Desafio - Gerador de códigos em arquivo, aplicação em .NET Core e .NET Framework.
 
-﻿# Desafio - Gerador de códigos em arquivo
+#### Desafio - Gerador de códigos em arquivo
 
 A empresa **StnX** solicitou um projeto que gere códigos com ***7 caracteres*** para utilização em campanhas de marketing.
 O algoritmo deve gerar um arquivo com um número de linhas especificado pelo usuário, contendo esses códigos gerados e precisa seguir algumas regras:
@@ -23,7 +23,7 @@ Nosso programa atual não está conseguindo gerar esse volume de códigos dentro
 
 Se você executar nosso programa com mais de 10 mil linhas, verá que grande parte dos recursos da máquina onde está sendo executado é utilizado.
 
-> ## Precisamos da sua ajuda para resolver esse problema.
+> #### Precisamos da sua ajuda para resolver esse problema.
 
 Refatore esse programa para que seja possível gerar um arquivo com 1 milhão de códigos de forma mais performática que conseguir.
 
@@ -42,20 +42,17 @@ No fluxo atual, o projeto não consegue gerar nem 100 mil códigos e quando cons
 
 <br>
 
-## Desafios adicionais
+#### Desafios adicionais
 
 - _Quando você conseguir fazer rodar para um arquivo com **1 milhão de códigos**, que tal tentar fazer ele rodar para **10 milhões**?!_ ;)
 - _Na versão atual do algoritmo, um mesmo código pode ser gerado em duplicidade. Consegue fazer com que a lista final de códigos só contenha códigos únicos, ou seja, sem repetição?_
 
 <br>
+#### E aí, podemos contar com você?!
 
-## E aí, podemos contar com você?!
-<br><br>
-
-## Como Rodar
+#### Como Rodar
 
 Basta rodar o comando `dotnet run` dentro da pasta que se encontra este README, e informar a quantidade de linhas.
-
 <br>
 
 *Disclaimer*
