@@ -1,0 +1,23 @@
+version: '3'
+services:
+  siteheroismarvel:
+    image: TreasuryChallenge
+    build:
+      context: .
+    ports:
+      - "20000:80"
+    networks:
+      - TreasuryChallenge-network
+    depends_on:
+      - "TreasuryChallenge"
+
+  redisheroismarvel:
+    image: redis:alpine
+    ports:
+      - "16379:6379"
+    networks:
+      - TreasuryChallenge-network
+
+networks:
+    marvel-network:
+        driver: bridge
